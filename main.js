@@ -76,7 +76,7 @@ var sum1 = Number(sum) * 10
 var element = document.getElementById("out");
 var newElement = '<img src="img/jaba.jpg" style="width: 200px; border: 1px solid #000; border-radius: 10px;box-shadow:5px 5px 10px #2B1015;">'
 element.insertAdjacentHTML( 'afterend', newElement )
-let out1 = `Вы Даня Куликов на <b>${sum1}%</b>! Отлично, но Даней вам никогда не стать))) Ловите жабу!!!`
+let out1 = `Вы Колгол на <b>${sum1}%</b>! Отлично, но советую ждать новый альбом <a href="https://vk.com/fstagelxstmille">ТУТ</a>)))`
 document.querySelector('.out1').innerHTML = out1;
 console.log (sum1)
 }
