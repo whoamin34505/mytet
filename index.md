@@ -10,8 +10,8 @@
 	<body>
 		<h1 class="title">Тест на Колгола</h1> <br>
  <h2 class="title">Выберете варианты ответа, и получите результат:</h2>
- <h1 class="title">ВАЖНО!!! ВЫБИРАТЬ СТРОГО ОДИН ВАРИАНТ ОТВЕТА, ИНАЧЕ ВЫ БУДЕТЕ ЗАПИСАНЫ В ТЕТРАДЬ СМЕРТИ!!!</h1>а АГЭ?</b><br>Да - <input type="radio" name="name9" id="n1" value="1"><br> Нет - <input name="name9" type="radio" id="n2" value="0"> </p>
-			<div class="text"> 
+ <h1 class="title">ВАЖНО!!! ВЫБИРАТЬ СТРОГО ОДИН ВАРИАНТ ОТВЕТА, ИНАЧЕ ВЫ БУДЕТЕ ЗАПИСАНЫ В ТЕТРАДЬ СМЕРТИ!!!</h1> 
+	<div class="text"> 
   <p class="text"><b>Вы пытаетесь понять как убрать нитрид натрия?</b>
 Да - <input type="radio" name="name1" id="n1" value="1">
  Нет - <input name="name1" type="radio" id="n2" value="0"> </p> 
