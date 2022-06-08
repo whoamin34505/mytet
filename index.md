@@ -13,7 +13,7 @@
  <h1 class="title">ВАЖНО!!! ВЫБИРАТЬ СТРОГО ОДИН ВАРИАНТ ОТВЕТА, ИНАЧЕ ВЫ БУДЕТЕ ЗАПИСАНЫ В ТЕТРАДЬ СМЕРТИ!!!</h1>
  <div class="text">
 	 <p class="text"><b>Вы пытаетесь понять как убрать нитрид натрия?</b><br>Да - <input type="radio" name="name1" id="n1" value="1"><br> Нет - <input name="name1" type="radio" id="n2" value="0"> </p>
-	 <p class="text"><b>>Вы хотите сделать себе химзавивку и стать dead inside krash zxcursed?</b><br>Да - <input type="radio" id="n3" value="1" name="name2"><br> Нет - <input type="radio" id="n4" value="0" name="name2"> </p>
+	 <p class="text"><b>Вы хотите сделать себе химзавивку и стать dead inside krash zxcursed?</b><br>Да - <input type="radio" id="n3" value="1" name="name2"><br> Нет - <input type="radio" id="n4" value="0" name="name2"> </p>
 	 <p class="text"><b> Ванëчек когда нибудь портил вам утюг?</b><br>Да - <input type="radio" name="name3" id="n1" value="1"><br> Нет - <input name="name3" type="radio" id="n2" value="0"> </p>
 	 <p class="text"><b>У вас есть друг со странной кличкой?</b><br>Да - <input type="radio" name="name4" id="n1" value="1"><br> Нет - <input name="name4" type="radio" id="n2" value="0"> </p>
 	 <p class="text"><b>Вы ходили в д.с. Дубравушка в группу "Гномики"</b><br>Да - <input type="radio" name="name5" id="n1" value="1"><br> Нет - <input name="name5" type="radio" id="n2" value="0"> 
