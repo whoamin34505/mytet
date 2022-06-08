@@ -74,9 +74,9 @@ function myClick() {
 var sum = Number(num1) + Number(num2) + Number(num3) + Number(num4) + Number(num5) + Number(num6) + Number(num7) + Number(num8) + Number(num9) + Number(num10)
 var sum1 = Number(sum) * 10
 var element = document.getElementById("out");
-var newElement = '<img src="img/jaba.jpg" style="width: 200px; border: 1px solid #000; border-radius: 10px;box-shadow:5px 5px 10px #2B1015;">'
+var newElement = '<img src="img/me.jpg" style="width: 200px; border: 1px solid #000; border-radius: 10px;box-shadow:5px 5px 10px #2B1015;">'
 element.insertAdjacentHTML( 'afterend', newElement )
-let out1 = `Вы Колгол на <b>${sum1}%</b>! Отлично, но советую ждать новый альбом <a href="https://vk.com/fstagelxstmille">ТУТ</a>)))`
+let out1 = `Вы Колгол на <b>${sum1}%</b>! Отлично, но советую ждать ДЭЭЭМКУ <a href="https://vk.com/fstagelxstmille">ТУТ</a>)))`
 document.querySelector('.out1').innerHTML = out1;
 console.log (sum1)
 }
